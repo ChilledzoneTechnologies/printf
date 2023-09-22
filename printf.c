@@ -3,7 +3,7 @@
 void print_buffer(char buffer[], int *buffIndex);
 
 /**
- * _printf - function to print a formatted string to the stdout
+ * _printf - prints a formatted string to the stdout
  *
  * @format: input string
  * @...: other arguments
